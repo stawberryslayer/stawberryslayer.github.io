@@ -8,15 +8,15 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+I am a student at UW-Madison majoring in Computer Science and Data Science
 
 ## About My Mentor
 
-Mentor info goes here.
+[Anna Fariha](https://afariha.github.io)
 
 ## About My Project
 
-Project description goes here.
+I am working on a data cleaning system.
 
 [My Final Report](files/finalreport.pdf)
 
